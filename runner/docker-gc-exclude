@@ -1,4 +1,5 @@
 registry2.balena-cloud.com.*
 registry2.balena-staging.com.*
 gitlab/gitlab-runner-helper:.*
+wlisac/.*
 <none>
